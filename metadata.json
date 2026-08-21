@@ -1,0 +1,6 @@
+{
+  "name": "CPU Scheduling Simulator & Analytics",
+  "description": "Interactive real-time CPU scheduling simulator comparing FCFS, SJF, Round Robin, and Priority algorithms with live state visualization and TAT/WT analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
